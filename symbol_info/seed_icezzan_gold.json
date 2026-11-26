@@ -1,0 +1,8 @@
+{
+  "symbol": ["GOLD_OIC", "GOLD_OIP", "GOLD_VOLC", "GOLD_VOLP"],
+  "description": ["Gold Call OI", "Gold Put OI", "Gold Call Vol", "Gold Put Vol"],
+  "pricescale": 100,
+  "minmov": 1,
+  "timezone": "America/Chicago",
+  "session": "24x7"
+}
